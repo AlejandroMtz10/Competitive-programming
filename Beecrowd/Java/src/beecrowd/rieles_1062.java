@@ -1,4 +1,4 @@
-package Beecrowd.Java;
+package beecrowd;
 import java.util.*;
 public class rieles_1062 {
 

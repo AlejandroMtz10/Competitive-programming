@@ -6,7 +6,7 @@
  * */
 import java.util.Scanner;
 
-public class help_ICPC {
+public class hello_ICPC {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

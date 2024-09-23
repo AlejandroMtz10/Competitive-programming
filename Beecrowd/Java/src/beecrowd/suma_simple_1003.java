@@ -1,4 +1,4 @@
-package Beecrowd.Java;
+package beecrowd;
 import java.util.Scanner;
 
 public class suma_simple_1003 {

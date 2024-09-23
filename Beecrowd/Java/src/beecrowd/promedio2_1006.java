@@ -1,4 +1,4 @@
-package Beecrowd.Java;
+package beecrowd;
 import java.io.IOException;
 import java.util.Scanner;
 public class promedio2_1006 {

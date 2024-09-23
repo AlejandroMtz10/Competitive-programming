@@ -1,4 +1,4 @@
-package Beecrowd.Java;
+package beecrowd;
 import java.util.Scanner;
 public class musical_loop_1089 {
 
@@ -41,4 +41,4 @@ public class musical_loop_1089 {
 
         return picos;
     }
-} 
+}
