@@ -1,5 +1,7 @@
-/*The race of slugs
-Problema 1789*/
+/*
+The race of slugs
+Problem: 1789
+*/
 
 #include<iostream>
 #include<string>
