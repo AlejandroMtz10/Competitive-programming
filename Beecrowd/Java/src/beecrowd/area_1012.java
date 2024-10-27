@@ -49,7 +49,7 @@ public class area_1012 {
 		System.out.println("TRAPEZIO: " + String.format("%.3f", trapeze));
 		System.out.println("QUADRADO: " + String.format("%.3f", square));
 		System.out.println("RETANGULO: " + String.format("%.3f", rectangle));
-		
+	
 	}
 
 }
