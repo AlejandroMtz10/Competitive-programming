@@ -3,8 +3,8 @@
 - Some programming exercises and programming contest problems.
 - Algunos ejercicios de programación y problemas de contest de programación.
 
-- Some points that I have learned throughout creating this repository from personal experience and that's why I have a taste for programming that I continue to enjoy in my free time.
-- Algunos puntos que he aprendido a lo largo que he creado este repositorio en experiencia personal y por eso tengo un gusto por la programación que sigo disfrutando en mis ratos libres.
+## Some points that I have learned throughout creating this repository from personal experience and that's why I have a taste for programming that I continue to enjoy in my free time.
+## Algunos puntos que he aprendido a lo largo que he creado este repositorio en experiencia personal y por eso tengo un gusto por la programación que sigo disfrutando en mis ratos libres.
 
 💻 Coding clean. / Codigo limpio.
 📊 Algorithms. / Algoritmos.
