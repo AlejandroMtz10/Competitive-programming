@@ -7,12 +7,12 @@ Some points that I have learned throughout creating this repository from persona
 
 Algunos puntos que he aprendido a lo largo que he creado este repositorio en experiencia personal y por eso tengo un gusto por la programación que sigo disfrutando en mis ratos libres.
 
-💻 Coding clean. / Codigo limpio.
-📊 Algorithms. / Algoritmos.
-🧠 Reasoning and development of logic to solve problems. / Razonamiento y desarrollo de logica para resolver problemas
-👥 Team work. / Trabajo en equipo.
-⏱️ Meet deadlines and work under pressure. / Cumplir con tiempos y trabajo bajo presion.
-💡 Use creativity for more optimal solutions. / Usar la creatividad para soluciones más optimas.
+- 💻 Coding clean. / Codigo limpio.
+- 📊 Algorithms. / Algoritmos.
+- 🧠 Reasoning and development of logic to solve problems. / Razonamiento y desarrollo de logica para resolver problemas
+- 👥 Team work. / Trabajo en equipo.
+- ⏱️ Meet deadlines and work under pressure. / Cumplir con tiempos y trabajo bajo presion.
+- 💡 Use creativity for more optimal solutions. / Usar la creatividad para soluciones más optimas.
 
 ## Teams where I have participated. / Equipos donde he participado.
 
