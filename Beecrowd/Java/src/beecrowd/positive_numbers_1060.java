@@ -1,6 +1,6 @@
 package beecrowd;
 
-import java.util.*;
+import java.util.Scanner;
 
 public class positive_numbers_1060 {
 
