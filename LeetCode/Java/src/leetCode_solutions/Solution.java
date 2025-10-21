@@ -1,4 +1,6 @@
-class Solution {
+package leetCode_solutions;
+
+public class Solution {
     public int removeElement(int[] nums, int val) {
         int i = 0;
 
