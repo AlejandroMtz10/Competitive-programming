@@ -3,7 +3,7 @@
  *      No: 68.
  *      Difficult: Hard.
  *      Topics: Array, string & simulation.
- *      Company: Airbnb. 
+ *      Company: Airbnb.
  */
 
 import java.util.ArrayList;
